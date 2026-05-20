@@ -21,7 +21,7 @@ The workflow includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/customer_churn_dashboard.png)
 
 ---
 
@@ -212,7 +212,6 @@ TELCO_CUSTOMER_CHURN/
 │   ├── customer_churn_data.csv
 │   ├── churn_cleaned.csv
 │   └── customer_churn.db
-│
 │
 ├── images/
 │   ├── churn_by_contract.png
